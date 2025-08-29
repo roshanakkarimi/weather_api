@@ -1,0 +1,7 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Tue Aug 26 07:23:00 2025
+-----------------------------------------------------------------
+
+check for "/usr/local/var/postgres/pg_tblspc" failed: No such file or directory
+
